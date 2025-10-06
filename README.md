@@ -12,7 +12,7 @@
   <details>
     <summary><strong>🎧 Busy coding & Vibing to :</strong></summary>
     <br>
-    <a href="https://open.spotify.com/user/somnathpaul">
+    <a href="https://open.spotify.com/playlist/5QKZqdiyhH49du0okldHLC?si=qHS9agjMSR6ZEfC9SQLVaw">
       <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing">
     </a>
   </details>
@@ -114,6 +114,4 @@ Hey there! I'm **Anshu Gupta**, a final-year IT student from **IIITM Gwalior, In
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=Lord-Alpha-dark&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
