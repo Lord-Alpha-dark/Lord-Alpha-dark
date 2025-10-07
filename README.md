@@ -104,9 +104,7 @@ Hey there! I'm **Anshu Gupta**, a final-year IT student from **IIITM Gwalior, In
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lord-alpha-dark&show_icons=true&theme=dark" alt="stats"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lord-alpha-dark&theme=dark&hide_border=false" alt="streak"/>
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-alpha-dark&layout=compact&theme=dark" alt="languages"/>
 </p>
